@@ -1,0 +1,16 @@
+{
+  "name": "myclientapp",
+  "description": "user client",
+  "main": "index.js",
+  "authors": [
+    "Charles Amper <amperca.@ph.ibm.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "bootstrap": "^3.3.6",
+    "angular-route": "^1.5.0"
+  }
+}
